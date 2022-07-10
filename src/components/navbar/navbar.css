@@ -1,0 +1,33 @@
+.navbar{
+  height: 50px;
+  background-color: #1b1b1b;
+   justify-content: center;
+   padding-left: 60px;
+   padding-bottom: 40px;
+   padding-right: 50px;
+   font-family: 'Montserrat', sans-serif;
+
+}
+
+.navContainer{
+  
+  width: 100%;
+   color: white;
+  display: flex;
+  align-items: center;
+   justify-content: space-between;
+}
+
+.logo{
+  font-weight: 500;
+}
+
+.navButton{
+  margin-left: 20px;
+   border: none;
+   height: 30px;
+   border-radius: 5px;
+  padding: 5px 70px;
+  cursor: pointer;
+  color: #24282e;
+}
